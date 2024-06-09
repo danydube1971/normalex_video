@@ -1,4 +1,4 @@
-# normalex_video
+# Normalex video 1.0
 **Pour ajuster le volume d'un fichier vidéo (MKV, MP4, AVI, WEBM)**
 
 
@@ -13,7 +13,8 @@ Ce script, écrit en Python, permet d'ajuster le volume de fichiers vidéo MP4, 
 1. Python 3.10 ou supérieur doit être installé sur votre système.
 2. FFmpeg doit être installé et accessible via la ligne de commande.
 3. PyQt5 doit être installé. Vous pouvez l'installer via pip :
-       `pip install PyQt5`
+   
+       pip install PyQt5
        
        
 Utilisation
